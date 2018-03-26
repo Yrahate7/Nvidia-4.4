@@ -1,7 +1,7 @@
 /dts-v1/;
 
-#include "tegra124-soc.dtsi"
-#include "tegra124-mocha.dtsi"
+#include "tegra124-platforms/tegra124-soc.dtsi"
+#include "tegra124-platforms/tegra124-mocha.dtsi"
 #include "tegra124-platforms/tegra124-mocha-emc-e1922-1100-a00.dtsi"
 #include "tegra124-platforms/tegra124-mocha-pmic-e1736-1000-a00.dtsi"
 #include "tegra124-platforms/tegra124-mocha-fixed-e1736-1000-a00.dtsi"
